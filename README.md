@@ -1,8 +1,8 @@
-GameOff gamejam 2020
+# GameOff gamejam 2020
 
-A game developed by Janus Gudjonsson
+**A game developed by Janus Gudjonsson**
 
-# Theme:Moonshot
+## Theme:Moonshot
 
 
 (this README:md will be updated later with more information)
