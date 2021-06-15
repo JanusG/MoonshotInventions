@@ -8,4 +8,5 @@
 (this README:md will be updated later with more information)
 
 Game assets developed with Blender
-Developed with Unreal Engine 4
+
+Game itself developed with Unreal Engine 4
